@@ -12,11 +12,14 @@ For each record it is provided:
 - An identifier of the subject who carried out the experiment.
 
 The dataset includes the following files, which are necesary for creating a tidy data set that:
+=========================================
 1) Merges the training and the test sets to create one data set.
 2) Extracts only the measurements on the mean and standard deviation for each measurement.
 3) Uses descriptive activity names to name the activities in the data set
 4) Labels the data set with descriptive variable names.
 5) Presents a tidy data set with the average of each variable for each activity and each subject.
+
+Files included
 =========================================
 
 - "activity_labels.txt": Links the class labels with their activity name.
